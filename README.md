@@ -7,6 +7,8 @@ This document serves as a short guide to projects; both in-process and "complete
 
 For more about me, or to get in touch, please visit my [LinkedIn](https://www.linkedin.com/in/wpgpeterson/).  
 
+[View my Resume (pdf)](https://github.com/wipegup/wipegup.github.io/blob/master/Resume-Peterson.pdf)
+
 [Navigate directly to my GitHub Home](https://github.com/wipegup)
 
 ## Projects:  
