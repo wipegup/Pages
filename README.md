@@ -1,6 +1,6 @@
 # Welcome
 
-## William Peterson's GitHub Page  
+## William Peterson's Portfolio 
 
 ### Introduction
 This document serves as a short guide to projects; both in-process and "completed."  
