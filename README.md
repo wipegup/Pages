@@ -6,9 +6,11 @@
 This document serves as a short guide to projects; both in-process and "completed."  
 
 For more about me, or to get in touch, please visit my [LinkedIn](https://www.linkedin.com/in/wpgpeterson/).  
+Or my [General Assembly Profile](https://profiles.generalassemb.ly/profiles/wpgpeterson)  
+
 
 [View resume (pdf)](https://github.com/wipegup/wipegup.github.io/blob/master/Resume-Peterson.pdf)  
-[View general cover letter](https://github.com/wipegup/wipegup.github.io/blob/master/GenCovLett-Peterson.pdf)  
+[View general cover letter (pdf)](https://github.com/wipegup/wipegup.github.io/blob/master/GenCovLett-Peterson.pdf)  
 
 [Navigate directly to my GitHub Home](https://github.com/wipegup)
 
@@ -65,7 +67,7 @@ Collected data from Reddit regarding number of comments per post on posts appear
 Scraping of data accomplished with `praw` and `scrapy`.
 Searched through Boosted, bagged, logistic, and KNeighbors classifiers on AWS.
 
-[Presented](https://docs.google.com/presentation/d/1mSoWZ1itVh7jFh9yA1KKcEUS1y8cPErRIlIVvb9SJfs/edit)
+[Presentation](https://docs.google.com/presentation/d/1mSoWZ1itVh7jFh9yA1KKcEUS1y8cPErRIlIVvb9SJfs/edit)
 
 ### [Iowa Liquor](https://github.com/wipegup/IowaLiquor/blob/master/code/Project-2-Peterson.ipynb)
 Given data describing liquor sales in the state of Iowa for the 2015 and first quarter of 2016. Using that data, evaluated counties for saturation of liquor stores
