@@ -6,16 +6,17 @@
 This document serves as a short guide to projects; both in-process and "completed."  
 
 For more about me, or to get in touch, please visit my [LinkedIn](https://www.linkedin.com/in/wpgpeterson/).  
-[GitHub Home](https://github.com/wipegup) . 
+[GitHub Home](https://github.com/wipegup)  
+
+Experience and work in Python, R, Ruby/Rails. "Software Development" work in Ruby/Rails; "Data Science" work in Python -- unless otherwise noted.  
+
+Below split into two sections:  
+- [Software Development](#software-development) section describes recent work.  
+- An historical [Data Science](#data-science) section describing older work in that field.
 
 
-This page is split into two sections:  
-- The top [Software Engineer](#software-engineer) section describes my recent work.  
-- If interested there is also a [Data Science](#data-science) section describing older work in that field.
 
-
-
-# Software Engineer
+# Software Development
 ## Projects:
 
 ### [Here To Learn](https://github.com/wipegup/HereToLearn)
@@ -29,12 +30,17 @@ Mock e-commerce site developed with group. [Base repo](https://github.com/tnodla
 - Session managed cart
 - Full CRUD functionality for items, users, other basic e-commerce features
 - Statistics calculated with Active Record
+- Authentication / Authorization (bcrypt password hashing)
 
 [Individual Extensions](https://github.com/wipegup/little_extensions) 
 - Simple D3 graphics
 - Download of "customer" data by merchants in `.csv`
 
-
+### [Brownfield](https://github.com/wipegup/brownfield-of-dreams)
+Project adding functionality to brownfield code-base. Worked with [Matt Levey](https://github.com/milevy1).
+- Sending e-mail invitations
+- OAuth
+- Optimizing Active Record queries
 
 
 # Data Science
@@ -105,4 +111,4 @@ in thinking about where a new store might be appropriate.
 Work involved implementing principles of EDA, on data grouped in different manners.  
 [Final presentation](https://docs.google.com/presentation/d/1KqRuMIQ2aYtMTT4AQaSLsRpgOwqFP6_uvF5xqEZ7btw/edit#slide=id.p)
 
-Migration from Enterprise GitHub occurred 4/13/18
+Migration of DS work from Enterprise GitHub occurred 4/13/18
