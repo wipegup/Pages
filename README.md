@@ -6,9 +6,14 @@
 This document serves as a short guide to projects; both in-process and "completed."  
 
 For more about me, or to get in touch, please visit my [LinkedIn](https://www.linkedin.com/in/wpgpeterson/).  
-Or my [General Assembly Profile](https://profiles.generalassemb.ly/profiles/wpgpeterson)  
+
+This page is split into two sections. The top [Software Engineer](#software-engineer) section describes my recent work. If interested there is also a [Data Science](#data-science) section describing older work in that field.
 
 
+
+# Software Engineer
+
+# Data Science
 [View resume (pdf)](https://github.com/wipegup/wipegup.github.io/blob/master/Resume-Peterson.pdf)  
 [View general cover letter (pdf)](https://github.com/wipegup/wipegup.github.io/blob/master/GenCovLett-Peterson.pdf)  
 
