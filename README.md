@@ -6,12 +6,36 @@
 This document serves as a short guide to projects; both in-process and "completed."  
 
 For more about me, or to get in touch, please visit my [LinkedIn](https://www.linkedin.com/in/wpgpeterson/).  
+[GitHub Home](https://github.com/wipegup) . 
 
-This page is split into two sections. The top [Software Engineer](#software-engineer) section describes my recent work. If interested there is also a [Data Science](#data-science) section describing older work in that field.
+
+This page is split into two sections:  
+- The top [Software Engineer](#software-engineer) section describes my recent work.  
+- If interested there is also a [Data Science](#data-science) section describing older work in that field.
 
 
 
 # Software Engineer
+## Projects:
+
+### [Here To Learn](https://github.com/wipegup/HereToLearn)
+An education focused application for collecting and coallating student data and teacher notes.
+- Provides attendance taking via student surveys. Live updates with websockets
+- Provides student grade predictions based on surveys. Django microservice utilizing Pandas and sklearn
+- Instructor notes reviewed automatically via sentiment analysis (call to api). Negative notes flagged.  
+
+### [Little Shop](https://github.com/wipegup/little_extensions)  
+Mock e-commerce site developed with group. [Base repo](https://github.com/tnodland/little_shop_v2).  
+- Session managed cart
+- Full CRUD functionality for items, users, other basic e-commerce features
+- Statistics calculated with Active Record
+
+[Individual Extensions](https://github.com/wipegup/little_extensions) 
+- Simple D3 graphics
+- Download of "customer" data by merchants in `.csv`
+
+
+
 
 # Data Science
 [View resume (pdf)](https://github.com/wipegup/wipegup.github.io/blob/master/Resume-Peterson.pdf)  
